@@ -1,0 +1,55 @@
+body {
+	background-color: #2B803E;
+	color: black;
+	font-family: 'Shift', sans-serif;
+	font-weight: bold;
+}
+.nav {
+	height: 50px;
+	background-color: #116022;
+}
+.nav li {
+	display: inline;
+}
+.frontbox {
+	height: 120px;
+	background-color: #50A061;	
+}
+.frontbox p {
+	margin-left: 2px;
+}
+.text {
+	padding-top: 10px;
+}
+.left {
+	float: left;
+	padding-left: 10px;
+}
+.right {
+	float: right;
+	padding-right: 10px;
+}
+.navbar{
+	width: 60px;
+}
+.user {
+	margin-top: 10px;
+	background-color: #50A061;
+}
+.userdetail {
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-bottom: 9px;
+	display: inline-block;
+	vertical-align: top;
+}
+.timeline {
+	background-color: #116022;
+	text-align: center;
+}
+.timeline li {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	list-style: none;
+}
+
